@@ -1,25 +1,12 @@
-# ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+<img src="https://user-images.githubusercontent.com/47276307/120058571-7dd2d400-c069-11eb-84e7-b073c6972eef.png" alt="Basic-Youtube-React-Clone" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/47276307/120058648-110c0980-c06a-11eb-99b1-ab5d4d3751f0.png" alt="Basic-Youtube-React-Clone" width="50" height="50"/>
 
-### Getting Started
 
-There are two methods for getting started with this repo.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+# ✨ Basic-Youtube-React-Clone
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+- A starter project to help understand the front-end framework [React](https://reactjs.org/).
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+# 📺 Project GIF in action
 
-```
-> npm install
-> npm start
-```
+![Project Gif](https://user-images.githubusercontent.com/47276307/120058897-67c61300-c06b-11eb-9e66-e689f8e26d04.gif)

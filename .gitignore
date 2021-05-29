@@ -6,3 +6,6 @@ npm-debug.log
 # IntelliJ
 *.iml
 /.idea
+
+# Hiding Credentials
+/src/api-key.js
